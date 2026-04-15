@@ -1,0 +1,1 @@
+This folder contains the code used for the flex sensor repeatability analysis in the project. It includes the script for automatic gesture-segment detection, valley and rest feature extraction, and the calculation of within-session and cross-session repeatability metrics.
