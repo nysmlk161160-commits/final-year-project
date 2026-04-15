@@ -1,0 +1,1 @@
+This folder contains the final source code of the integrated rehabilitation glove system. The two `.ino` files are the Arduino-side programs for sensing transmission and output control, whereas all other files are Python source files for the host-side runtime system.
