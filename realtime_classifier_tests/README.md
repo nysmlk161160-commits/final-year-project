@@ -1,0 +1,1 @@
+This folder contains the real-time performance test scripts for the trained 1D-CNN, kNN, and multinomial logistic regression classifiers. Each script reads 7-channel sensor data from the serial port, constructs input windows, applies the saved preprocessing settings, performs real-time inference, and outputs both raw and vote-smoothed predictions.
